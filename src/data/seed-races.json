@@ -1,0 +1,158 @@
+{
+	"races": {
+		"bahrain": {
+			"round": "1",
+			"name": "Formula 1 Gulf Air Bahrain Grand Prix 2022",
+			"country": "Bahrain",
+			"flag": "flag",
+			"date": "2022-03-20T18:00:00"
+		},
+		"saudi": {
+			"round": "2",
+			"name": "Formula 1 STC Saudi Arabia Grand Prix 2022",
+			"country": "Saudi Arabia",
+			"flag": "flag",
+			"date": "2022-03-27T18:00:00"
+		},
+		"australia": {
+			"round": "3",
+			"name": "Formula 1 Heineken Australian Grand Prix 2022",
+			"country": "Australia",
+			"flag": "flag",
+			"date": "2022-04-10T06:00:00"
+		},
+		"imola": {
+			"round": "4",
+			"name": "Formula 1 Rolex Gran Premio Dell'Emilia Romagna 2022",
+			"country": "Italy",
+			"flag": "flag",
+			"date": "2022-04-24T14:00:00"
+		},
+		"miami": {
+			"round": "5",
+			"name": "Formula 1 Cryto.com Miami Grand Prix 2022",
+			"country": "USA",
+			"flag": "flag",
+			"date": "2022-05-08T20:30:00"
+		},
+		"spain": {
+			"round": "6",
+			"name": "Formula 1 Gran Premio de Espana 2022",
+			"country": "Spain",
+			"flag": "flag",
+			"date": "2022-05-22T14:00:00"
+		},
+		"monaco": {
+			"round": "7",
+			"name": "Formula 1 Grand Prix de Monaco 2022",
+			"country": "Monaco",
+			"flag": "flag",
+			"date": "2022-05-29T14:00:00"
+		},
+		"azerbaijan": {
+			"round": "8",
+			"name": "Formula 1 Azerbaijan Grand Prix 2022",
+			"country": "Azerbaijan",
+			"flag": "flag",
+			"date": "2022-06-12T12:00:00"
+		},
+		"canada": {
+			"round": "9",
+			"name": "Formula 1 Grand Prix du Canada 2022",
+			"country": "Bahrain",
+			"flag": "flag",
+			"date": "2022-06-19T19:00:00"
+		},
+		"british": {
+			"round": "10",
+			"name": "2022 British Grand Prix",
+			"country": "United Kingdom",
+			"flag": "flag",
+			"date": "2022-07-03T15:00:00"
+		},
+		"austria": {
+			"round": "11",
+			"name": "Formula 1 Grosser Preis Von Osterreich 2022",
+			"country": "Austria",
+			"flag": "flag",
+			"date": "2022-07-10T14:00:00"
+		},
+		"france": {
+			"round": "12",
+			"name": "Formula 1 Grand Prix de France 2022",
+			"country": "France",
+			"flag": "flag",
+			"date": "2022-07-24T14:00:00"
+		},
+		"hungary": {
+			"round": "13",
+			"name": "Formula 1 Magyar Nagydij 2022",
+			"country": "Hungary",
+			"flag": "flag",
+			"date": "2022-07-31T14:00:00"
+		},
+		"belgium": {
+			"round": "14",
+			"name": "Formula 1 Rolex Belgian Grand Pri 2022",
+			"country": "Belgium",
+			"flag": "flag",
+			"date": "2022-08-28T14:00:00"
+		},
+		"netherlands": {
+			"round": "15",
+			"name": "Formula 1 Heineken Dutch Grand Prix 2022",
+			"country": "Netherlands",
+			"flag": "flag",
+			"date": "2022-09-04T14:00:00"
+		},
+		"monza": {
+			"round": "16",
+			"name": "Formula 1 Pirelli Gran Premio D'Italia 2022",
+			"country": "Italy",
+			"flag": "flag",
+			"date": "2022-09-11T14:00:00"
+		},
+		"singapore": {
+			"round": "17",
+			"name": "Formula 1 Singapore Grand Prix 2022",
+			"country": "Singapore",
+			"flag": "flag",
+			"date": "2022-10-02T13:00:00"
+		},
+		"japan": {
+			"round": "18",
+			"name": "Formula 1 Japanese Grand Prix 2022",
+			"country": "Japan",
+			"flag": "flag",
+			"date": "2022-10-09T06:00:00"
+		},
+		"austin": {
+			"round": "19",
+			"name": "Formula 1 Aramco United States Grand Prix 2022",
+			"country": "USA",
+			"flag": "flag",
+			"date": "2022-10-23T20:00:00"
+		},
+		"mexico": {
+			"round": "20",
+			"name": "Formula 1 Gran Premio de la Ciudad de México 2022",
+			"country": "mexico",
+			"flag": "flag",
+			"date": "2022-10-30T20:00:00"
+		},
+		"brazil": {
+			"round": "21",
+			"name": "Formula 1 Heineken Grande Premio de Sao Paulo 2022",
+			"country": "Brazil",
+			"flag": "flag",
+			"date": "2022-11-13T18:00:00"
+		},
+		"uae": {
+			"round": "22",
+			"name": "Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022",
+			"country": "UAE",
+			"flag": "flag",
+			"date": "2022-11-20T13:00:00"
+		}
+	}
+}
