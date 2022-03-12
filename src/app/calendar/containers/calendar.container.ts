@@ -14,9 +14,18 @@ export class CalendarContainerComponent {
     constructor(private calendarService: CalendarService) {
         this.calendarService.races.snapshotChanges().pipe(
             map(changes => 
-                changes.map(c => 
-                    ({ id: c.payload.key, ...c.payload.val() }) as Race
-                )
+                changes.map(c => {
+                    const value = c.payload.val();
+                    return new Race(
+                        c.payload.key ?? '',
+                        value?.round,
+                        value?.name,
+                        value?.country,
+                        value?.city,
+                        value?.flag,
+                        value?.date
+                    );
+                })
             )
         ).subscribe(data => this.raceData = data);
     }

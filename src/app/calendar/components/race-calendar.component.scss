@@ -1,0 +1,19 @@
+.calendar-container {
+  flex-wrap: wrap;
+}
+
+.race-card {
+  height: 400px;
+
+  .flag-header-image {
+    height: 64px;
+    width: 64px;
+    overflow: hidden;
+    background-position: center;
+    border: solid #555 1px;
+  }
+
+  .race-card-title {
+    white-space: pre-wrap;
+  }
+}
