@@ -10,6 +10,32 @@
 <style>.mat-typography{font:400 14px/20px Roboto,"Helvetica Neue",sans-serif;letter-spacing:normal}html,body{height:100%}body{margin:0;font-family:Roboto,"Helvetica Neue",sans-serif}</style><link rel="stylesheet" href="styles.24bdec9297b9f2d3.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.24bdec9297b9f2d3.css"></noscript></head>
 <body class="mat-typography">
   <app-root></app-root>
-<script src="runtime.a9a72dcf75660efd.js" type="module"></script><script src="polyfills.5884229d16ec0a7d.js" type="module"></script><script src="main.122ab1785e04cb4a.js" type="module"></script>
+
+  <!-- FIREBASE -->
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+      apiKey: "AIzaSyBr0BQgfSLcYtJS8bIg-eY5cv1amVBgRhU",
+      authDomain: "f1-2022-7ca5f.firebaseapp.com",
+      databaseURL: "https://f1-2022-7ca5f-default-rtdb.europe-west1.firebasedatabase.app",
+      projectId: "f1-2022-7ca5f",
+      storageBucket: "f1-2022-7ca5f.appspot.com",
+      messagingSenderId: "670353930622",
+      appId: "1:670353930622:web:bd6becb69a0557fd099b2f",
+      measurementId: "G-P179BS202W"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+  </script>
+<script src="runtime.b5f4b1c5fcbd9b67.js" type="module"></script><script src="polyfills.51e0c1d57b53437c.js" type="module"></script><script src="main.ff46df9fa6a2b023.js" type="module"></script>
 
 </body></html>
